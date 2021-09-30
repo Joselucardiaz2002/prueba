@@ -14,3 +14,7 @@
 > esto es otra cita
 > 
 ![logotipo](/logotipo/circulo-brillante-iluminacion-purpura-aislado-sobre-fondo-oscuro_1441-2396.png)
+columna 1 | columna 2
+--------- | ---------
+elemento 1 | elemento 2
+elemento 3 | elemento 4
