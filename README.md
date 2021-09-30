@@ -10,3 +10,6 @@
 1. ordenada1
 2. ordenada2
 3. ordenada3 
+! [logotipo] (/images/logo.png)
+> esto es una cita
+> esto es otra cita
