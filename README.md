@@ -7,6 +7,6 @@
 * item2
 * item3
 
-1 desordenada1
-2 desordenada2
-3 desordenada3 
+1. ordenada1
+2. ordenada2
+3. ordenada3 
